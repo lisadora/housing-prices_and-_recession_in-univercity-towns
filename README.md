@@ -1,4 +1,1 @@
-# opening_a_bar_in_cologne
-# religious_and_political_affiliation_USA
-# religious_and_political_affiliation_USA
-# housing-prices_and-_recession_in-univercity-towns
+# housing-prices_and_recession_in-univercity-towns
